@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/novakjason/clicky-game/static/css/main.b100e6da.chunk.css",
+    "main.js": "/novakjason/clicky-game/static/js/main.e85e1bff.chunk.js",
+    "main.js.map": "/novakjason/clicky-game/static/js/main.e85e1bff.chunk.js.map",
+    "runtime-main.js": "/novakjason/clicky-game/static/js/runtime-main.0057e6d1.js",
+    "runtime-main.js.map": "/novakjason/clicky-game/static/js/runtime-main.0057e6d1.js.map",
+    "static/js/2.16fd8e67.chunk.js": "/novakjason/clicky-game/static/js/2.16fd8e67.chunk.js",
+    "static/js/2.16fd8e67.chunk.js.map": "/novakjason/clicky-game/static/js/2.16fd8e67.chunk.js.map",
+    "index.html": "/novakjason/clicky-game/index.html",
+    "precache-manifest.24e812b326005a3fa1a10481e152b180.js": "/novakjason/clicky-game/precache-manifest.24e812b326005a3fa1a10481e152b180.js",
+    "service-worker.js": "/novakjason/clicky-game/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/novakjason/clicky-game/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/novakjason/clicky-game/static/media/logo.25bf045c.svg"
+  }
+}
